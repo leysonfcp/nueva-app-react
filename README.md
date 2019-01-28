@@ -1,5 +1,5 @@
 # nueva-app-react
- Project that creates targetas
+ Project that creates cards
 
 ### `npm install`
 
