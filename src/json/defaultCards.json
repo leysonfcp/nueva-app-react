@@ -1,0 +1,16 @@
+{
+  "defaultCards":[
+    {
+      "title": "Example 1",
+      "description": "This card is a example",
+      "dateCreated": "2019-01-26",
+      "enable": true
+    },
+    {
+      "title": "Example 2",
+      "description": "This card is a example",
+      "dateCreated": "2019-01-26",
+      "enable": true
+    }
+  ]
+}
